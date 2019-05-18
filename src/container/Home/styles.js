@@ -25,7 +25,7 @@ export const styles = StyleSheet.create({
         fontSize: 22
     },
     welcome: {
-        fontSize: 40,
+        fontSize: 25,
         textAlign: 'center',
         color:  Colors.WHITE,
         marginBottom: 20

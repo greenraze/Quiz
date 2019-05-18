@@ -19,7 +19,7 @@ export const styles = StyleSheet.create({
         fontSize: 22
     },
     score: {
-        fontSize: 40,
+        fontSize: 20,
         color: Colors.WHITE,
         textAlign: 'center',
         marginBottom: 20

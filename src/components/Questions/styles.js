@@ -24,13 +24,13 @@ export const styles = StyleSheet.create({
     padding: 20
   },
   question: {
-    fontSize: 20,
+    fontSize: 16,
   },
   button:{
     flexDirection:'row'
   },
   answers:{
-    fontSize:20,
+    fontSize:18,
     marginStart:5
   }
 });

@@ -15,7 +15,7 @@ class index extends React.Component {
             setUserAnswerHandler={setUserAnswerHandler}
           />
         )}
-        keyExtractor={(item, index) => index}
+        keyExtractor={(item, index) => index+"i"}
         numColumns={1}
         onEndReachedThreshold={0.5}
       />
